@@ -1,0 +1,16 @@
+{
+    "authors": [
+        {
+            "name": "EgorkaEK"
+        }
+    ],
+    "require": {
+        "ext-mysqli": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Photos\\": ""
+        }
+    }
+}
+
